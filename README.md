@@ -4,7 +4,7 @@
 
    Type: Oral Presentation.
 
-   Presentation Materials: The presentation slides are available in 2026-
+   Presentation Materials: The presentation slides are available in 2026-Mountain-West-AI-HPC-Summit folder.
    
 3. Limitations of the ECQC Inequality: A Counterexample in Composite Dimension d = 4.
 
