@@ -2,6 +2,8 @@
 
 Event: Mountain West AI & HPC Summit 
 
+Locations: University of Wyoming, USA.
+
 Date: 1st September 2026
 
 Presentation Type: Oral Presentation 
