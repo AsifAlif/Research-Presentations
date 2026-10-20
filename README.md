@@ -9,3 +9,5 @@
 3. Limitations of the ECQC Inequality: A Counterexample in Composite Dimension d = 4.
 
    Type: Poster Presentation.
+
+   Presentation Materials: The poster presentation pdf file is available in 2026-UW-Science-Institute-Symposium folder.
