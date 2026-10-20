@@ -2,7 +2,7 @@
 
 Event: Mountain West AI & HPC Summit 
 
-Date: 1st September 202 
+Date: 1st September 2026
 
 Presentation Type: Oral Presentation 
 
